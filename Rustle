@@ -17,8 +17,8 @@ build version -> 0.6 - 11/27/22
 --GUNS:
 -----------------------------------------------------------------
 -------------------------------AK47------------------------------
-local ASSAULT_RIFLE = nil
-local ASSAULT_RIFLE_HOLOSIGHT = false
+local ASSAULT_RIFLE = 5
+local ASSAULT_RIFLE_HOLOSIGHT = true
 local ASSAULT_RIFLE_8X = false
 local ASSAULT_RIFLE_16X = false
 local ASSAULT_RIFLE_HANDMADE = false
@@ -131,7 +131,7 @@ local PYTHON_HANDMADE = false
  
 -----------------------------------------------------------------
 -----------------------------SETTINGS----------------------------
-local CUSTOMIZABLE_SENS = 0.00 --SET UR OWN SENSITIVITY
+local CUSTOMIZABLE_SENS = 0.5 --SET UR OWN SENSITIVITY
 local CUSTOMIZABLE_FOV = 90 --SET UR OWN FOV
 -----------------------------------------------------------------
  
